@@ -1,0 +1,71 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+
+#include "ControllerInvertYOption.h"
+
+#include "RobotHunter/CCC/Character/MainCharacter.h"
+#include "RobotHunter/Utils/DebugUtils.h"
+
+void UControllerInvertYOption::Init(const TObjectPtr<UOptionFrame>& _parent, const TObjectPtr<UGameUserSettings>& _gus,
+                                    const TObjectPtr<UWorld>& _world, const
+                                    TObjectPtr<USettingsSave>
+                                    & _settings)
+{
+	Super::Init(_parent, _gus, _world, _settings);
+	currentIndex = static_cast<int>(settings->GetControllerInvertY());
+}
+
+void UControllerInvertYOption::Apply()
+{
+	Super::Apply();
+	settings->SetControllerInvertY(static_cast<bool>(currentIndex));
+	SetInvertYToPlayer();
+}
+
+TArray<FString> UControllerInvertYOption::GetChoices() const
+{
+	TArray<FString> result;
+
+	for (const TTuple<bool, FText>& Value : values)
+	{
+		result.Add(FORMAT(choiceFormat, Value.Value.ToString()));
+	}
+
+	return result;
+}
+void UControllerInvertYOption::ResetToDefault()
+{
+	currentIndex = static_cast<int>(settings->GetGameplay().default_controllerInvertY);
+	Super::ResetToDefault();
+}
+
+#if WITH_EDITOR
+void UControllerInvertYOption::PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent)
+{
+	Super::PostEditChangeProperty(PropertyChangedEvent);
+
+	if (PropertyChangedEvent.ChangeType == EPropertyChangeType::ArrayRemove || PropertyChangedEvent.ChangeType ==
+		EPropertyChangeType::ArrayClear)
+	{
+		values = {
+			{
+				{true, TEXTSTR("Enabled")},
+				{false, TEXTSTR("Disabled")}
+			}
+		};
+	}
+}
+#endif
+
+
+void UControllerInvertYOption::SetInvertYToPlayer() const
+{
+	if (!world) return;
+	const TObjectPtr<AMainCharacter> _player = Cast<AMainCharacter>(world->GetFirstPlayerController()->GetPawn());
+	if (!_player)
+	{
+		return;
+	}
+
+	_player->SetCameraInvertY(static_cast<bool>(currentIndex), true);
+}

@@ -1,0 +1,1134 @@
+﻿# Game French (France) translation.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-04-11 14:06\n"
+"PO-Revision-Date: 2025-04-11 14:06\n"
+"Language-Team: \n"
+"Language: fr-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	b01_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b01_desc"
+msgid "Movement speed is increased by {0}%."
+msgstr ""
+
+#. Key:	b01_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b01_name"
+msgid "Speed+ x{0}"
+msgstr ""
+
+#. Key:	b02_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b02_desc"
+msgid "Max health is increased by {0}%."
+msgstr ""
+
+#. Key:	b02_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b02_name"
+msgid "Life+ x{0}"
+msgstr ""
+
+#. Key:	b03_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b03_desc"
+msgid "Healing effectiveness is increased by {0}%."
+msgstr ""
+
+#. Key:	b03_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b03_name"
+msgid "Heal+ x{0}"
+msgstr ""
+
+#. Key:	b04_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b04_desc"
+msgid "Damage resistance is increased by {0}%."
+msgstr ""
+
+#. Key:	b04_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b04_name"
+msgid "Protection x{0}"
+msgstr ""
+
+#. Key:	b05_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b05_desc"
+msgid "Status resistance is increased by {0}%."
+msgstr ""
+
+#. Key:	b05_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b05_name"
+msgid "Resistance x{0}"
+msgstr ""
+
+#. Key:	b06_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b06_desc"
+msgid "Cooldowns for all members are reduced by {0}%."
+msgstr ""
+
+#. Key:	b06_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b06_name"
+msgid "Cooldown Reduction x{0}"
+msgstr ""
+
+#. Key:	b07_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b07_desc"
+msgid "Once a day, when your health drops to 0, restore {0} health instead of dying."
+msgstr ""
+
+#. Key:	b07_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b07_name"
+msgid "Revive x{0}"
+msgstr ""
+
+#. Key:	b08_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b08_desc"
+msgid "Regenerate {0} health per second."
+msgstr ""
+
+#. Key:	b08_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+#: /Game/00_Prog/UI/StringTable/BonusDescriptions.BonusDescriptions
+msgctxt "BonusDescriptions,b08_name"
+msgid "Regeneration x{0}"
+msgstr ""
+
+#. Key:	Animator
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Animator"
+msgid "Animator"
+msgstr ""
+
+#. Key:	Apply
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Apply"
+msgid "Apply"
+msgstr ""
+
+#. Key:	Back
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Back"
+msgid "Back"
+msgstr ""
+
+#. Key:	BacktoHub
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,BacktoHub"
+msgid "Back to Hub"
+msgstr ""
+
+#. Key:	Calf
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Calf"
+msgid "Calf"
+msgstr ""
+
+#. Key:	Coop
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Coop"
+msgid "Co-op"
+msgstr ""
+
+#. Key:	Credit
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Credit"
+msgid "Credit"
+msgstr ""
+
+#. Key:	Game
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Game"
+msgid "Game"
+msgstr ""
+
+#. Key:	GD/LD
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,GD/LD"
+msgid "Game/Level Design"
+msgstr ""
+
+#. Key:	Graphs
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Graphs"
+msgid "Graphs"
+msgstr ""
+
+#. Key:	LeftArm
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,LeftArm"
+msgid "Left Arm"
+msgstr ""
+
+#. Key:	Map
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Map"
+msgid "Map"
+msgstr ""
+
+#. Key:	NoBonus
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,NoBonus"
+msgid "No Bonus Available"
+msgstr ""
+
+#. Key:	Options
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Options"
+msgid "Options"
+msgstr ""
+
+#. Key:	Play
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Play"
+msgid "Play"
+msgstr ""
+
+#. Key:	Programmer
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Programmer"
+msgid "Programmer"
+msgstr ""
+
+#. Key:	Quit
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Quit"
+msgid "Quit"
+msgstr ""
+
+#. Key:	Rig
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Rig"
+msgid "Rigs"
+msgstr ""
+
+#. Key:	RightArm
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,RightArm"
+msgid "Right Arm"
+msgstr ""
+
+#. Key:	Session_friend
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Session_friend"
+msgid "Friends"
+msgstr ""
+
+#. Key:	Session_private
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Session_private"
+msgid "Private"
+msgstr ""
+
+#. Key:	Session_public
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Session_public"
+msgid "Public"
+msgstr ""
+
+#. Key:	Social
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Social"
+msgid "Social"
+msgstr ""
+
+#. Key:	Solo
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Solo"
+msgid "Solo"
+msgstr "Jouer seul"
+
+#. Key:	SoundDesign
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,SoundDesign"
+msgid "Sound Design"
+msgstr ""
+
+#. Key:	Start
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Start"
+msgid "Going on an adventure?"
+msgstr ""
+
+#. Key:	StormCore
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,StormCore"
+msgid "StormCore"
+msgstr ""
+
+#. Key:	Thigh
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/MenuString.MenuString
+#: /Game/00_Prog/UI/StringTable/MenuString.MenuString
+msgctxt "MenuString,Thigh"
+msgid "Thigh"
+msgstr ""
+
+#. Key:	AimToggle
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,AimToggle"
+msgid "Aim Toggle"
+msgstr ""
+
+#. Key:	AntiAliasing
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,AntiAliasing"
+msgid "Anti-Aliasing"
+msgstr ""
+
+#. Key:	Back
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Back"
+msgid "Back"
+msgstr ""
+
+#. Key:	C_InvertX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,C_InvertX"
+msgid "Controller Invert X"
+msgstr ""
+
+#. Key:	C_InvertY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,C_InvertY"
+msgid "Controller Invert Y"
+msgstr ""
+
+#. Key:	C_SensibilityX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,C_SensibilityX"
+msgid "Controller Sensitivity X"
+msgstr ""
+
+#. Key:	C_SensibilityY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,C_SensibilityY"
+msgid "Controller Sensitivity Y"
+msgstr ""
+
+#. Key:	Custom
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Custom"
+msgid "Custom"
+msgstr ""
+
+#. Key:	DaltonismDescription
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DaltonismDescription"
+msgid "Set the type of colorblindness correction"
+msgstr ""
+
+#. Key:	DaltonismForceDescription
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DaltonismForceDescription"
+msgid "Set the intensity of colorblindness correction"
+msgstr ""
+
+#. Key:	DaltonismForceName
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DaltonismForceName"
+msgid "Force Correction"
+msgstr ""
+
+#. Key:	DaltonismName
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DaltonismName"
+msgid "Colorblindness"
+msgstr ""
+
+#. Key:	Description_C_InvertX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Description_C_InvertX"
+msgid "Invert horizontal axis for the controller"
+msgstr ""
+
+#. Key:	Description_C_InvertY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Description_C_InvertY"
+msgid "Invert vertical axis for the controller"
+msgstr ""
+
+#. Key:	Description_C_SensiX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Description_C_SensiX"
+msgid "Set the controller's horizontal camera sensitivity"
+msgstr ""
+
+#. Key:	Description_C_SensiY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Description_C_SensiY"
+msgid "Set the controller's vertical camera sensitivity"
+msgstr ""
+
+#. Key:	DescriptionAA
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionAA"
+msgid "Anti-aliasing reduces visual artifacts by smoothing jagged edges on objects"
+msgstr ""
+
+#. Key:	DescriptionAimToggle
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionAimToggle"
+msgid "Enable or disable holding a key to aim"
+msgstr ""
+
+#. Key:	DescriptionEffects
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionEffects"
+msgid "Visual effects in the game"
+msgstr ""
+
+#. Key:	DescriptionFoliage
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionFoliage"
+msgid "Adjust the quality of grass and other greenery"
+msgstr ""
+
+#. Key:	DescriptionFOV
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionFOV"
+msgid "Set the camera's field of view"
+msgstr ""
+
+#. Key:	DescriptionGI
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionGI"
+msgid "Set the quality of global illumination"
+msgstr ""
+
+#. Key:	DescriptionInvertX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionInvertX"
+msgid "Invert horizontal axis"
+msgstr ""
+
+#. Key:	DescriptionInvertY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionInvertY"
+msgid "Invert vertical axis"
+msgstr ""
+
+#. Key:	DescriptionLanguage
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionLanguage"
+msgid "Set the language of the game"
+msgstr ""
+
+#. Key:	DescriptionMainSound
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionMainSound"
+msgid "Set the global volume level"
+msgstr ""
+
+#. Key:	DescriptionMaxFPS
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionMaxFPS"
+msgid "Set the maximum frames per second"
+msgstr ""
+
+#. Key:	DescriptionPostProcess
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionPostProcess"
+msgid "Post-processing effects in the game"
+msgstr ""
+
+#. Key:	DescriptionPreset
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionPreset"
+msgid "Set a global preset for all graphic options"
+msgstr ""
+
+#. Key:	DescriptionReflection
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionReflection"
+msgid "Adjust the quality of reflections"
+msgstr ""
+
+#. Key:	DescriptionResolution
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionResolution"
+msgid "Set the screen resolution for the game"
+msgstr ""
+
+#. Key:	DescriptionSensiX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionSensiX"
+msgid "Set the camera's horizontal sensitivity"
+msgstr ""
+
+#. Key:	DescriptionSensiY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionSensiY"
+msgid "Set the camera's vertical sensitivity"
+msgstr ""
+
+#. Key:	DescriptionShading
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionShading"
+msgid "Adjust the quality of shading"
+msgstr ""
+
+#. Key:	DescriptionShadow
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionShadow"
+msgid "Adjust the quality of shadows"
+msgstr ""
+
+#. Key:	DescriptionTexture
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionTexture"
+msgid "Adjust the quality of textures"
+msgstr ""
+
+#. Key:	DescriptionVD
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionVD"
+msgid "Set the camera's view distance"
+msgstr ""
+
+#. Key:	DescriptionVSync
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionVSync"
+msgid "Enable or disable V-Sync"
+msgstr ""
+
+#. Key:	DescriptionWindow
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,DescriptionWindow"
+msgid "Change the display type"
+msgstr ""
+
+#. Key:	Deutranope
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Deutranope"
+msgid "Deuteranope"
+msgstr ""
+
+#. Key:	Disable
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Disable"
+msgid "Disable"
+msgstr ""
+
+#. Key:	Effects
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Effects"
+msgid "Effects"
+msgstr ""
+
+#. Key:	Enable
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Enable"
+msgid "Enable"
+msgstr ""
+
+#. Key:	English
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,English"
+msgid "English"
+msgstr ""
+
+#. Key:	Epic
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Epic"
+msgid "Epic"
+msgstr ""
+
+#. Key:	Foliage
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Foliage"
+msgid "Foliage"
+msgstr ""
+
+#. Key:	FOV
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,FOV"
+msgid "FOV"
+msgstr ""
+
+#. Key:	Francais
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Francais"
+msgid "Français"
+msgstr ""
+
+#. Key:	Fullscreen
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Fullscreen"
+msgid "Fullscreen"
+msgstr ""
+
+#. Key:	GlobalIllumation
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,GlobalIllumation"
+msgid "Global Illumination"
+msgstr ""
+
+#. Key:	High
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,High"
+msgid "High"
+msgstr ""
+
+#. Key:	Hold
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Hold"
+msgid "Hold"
+msgstr ""
+
+#. Key:	InvertX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,InvertX"
+msgid "Invert X"
+msgstr ""
+
+#. Key:	InvertY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,InvertY"
+msgid "Invert Y"
+msgstr ""
+
+#. Key:	Language
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Language"
+msgid "Language"
+msgstr ""
+
+#. Key:	Low
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Low"
+msgid "Low"
+msgstr ""
+
+#. Key:	MainSound
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,MainSound"
+msgid "Main"
+msgstr ""
+
+#. Key:	MaxFPS
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,MaxFPS"
+msgid "Max FPS"
+msgstr ""
+
+#. Key:	Medium
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Medium"
+msgid "Medium"
+msgstr ""
+
+#. Key:	Normal
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Normal"
+msgid "Normal"
+msgstr ""
+
+#. Key:	Option_Accessibility
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Option_Accessibility"
+msgid "Accessibility"
+msgstr ""
+
+#. Key:	Option_Gameplay
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Option_Gameplay"
+msgid "Gameplay"
+msgstr ""
+
+#. Key:	Option_Graphics
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Option_Graphics"
+msgid "Graphics"
+msgstr ""
+
+#. Key:	Option_Keybinds
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Option_Keybinds"
+msgid "Keybinds"
+msgstr ""
+
+#. Key:	Option_Sound
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Option_Sound"
+msgid "Sound"
+msgstr ""
+
+#. Key:	PostProcess
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,PostProcess"
+msgid "Post Processing"
+msgstr ""
+
+#. Key:	Preset
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Preset"
+msgid "Preset"
+msgstr ""
+
+#. Key:	Protanope
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Protanope"
+msgid "Protanope"
+msgstr ""
+
+#. Key:	Reflection
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Reflection"
+msgid "Reflection"
+msgstr ""
+
+#. Key:	Resolution
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Resolution"
+msgid "Resolution"
+msgstr ""
+
+#. Key:	SensibilityX
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,SensibilityX"
+msgid "Sensitivity X"
+msgstr ""
+
+#. Key:	SensibilityY
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,SensibilityY"
+msgid "Sensitivity Y"
+msgstr ""
+
+#. Key:	Shading
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Shading"
+msgid "Shading"
+msgstr ""
+
+#. Key:	Shadow
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Shadow"
+msgid "Shadow"
+msgstr ""
+
+#. Key:	Sound_Master_Description
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Sound_Master_Description"
+msgid "Adjust the master volume"
+msgstr ""
+
+#. Key:	Sound_Master_Title
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Sound_Master_Title"
+msgid "Master"
+msgstr ""
+
+#. Key:	Sound_Music_Description
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Sound_Music_Description"
+msgid "Adjust the volume of music"
+msgstr ""
+
+#. Key:	Sound_Music_Title
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Sound_Music_Title"
+msgid "Music"
+msgstr ""
+
+#. Key:	Sound_SFX_Description
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Sound_SFX_Description"
+msgid "Adjust the volume of sound effects"
+msgstr ""
+
+#. Key:	Sound_SFX_Title
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Sound_SFX_Title"
+msgid "SFX"
+msgstr ""
+
+#. Key:	Texture
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Texture"
+msgid "Texture"
+msgstr ""
+
+#. Key:	Toggle
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Toggle"
+msgid "Toggle"
+msgstr ""
+
+#. Key:	Tritanope
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Tritanope"
+msgid "Tritanope"
+msgstr ""
+
+#. Key:	ViewDistance
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,ViewDistance"
+msgid "View Distance"
+msgstr ""
+
+#. Key:	VSync
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,VSync"
+msgid "V-Sync"
+msgstr ""
+
+#. Key:	Window
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Window"
+msgid "Window"
+msgstr ""
+
+#. Key:	Windowed
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,Windowed"
+msgid "Windowed"
+msgstr ""
+
+#. Key:	WindowFullscreen
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/OptionString.OptionString
+#: /Game/00_Prog/UI/StringTable/OptionString.OptionString
+msgctxt "OptionString,WindowFullscreen"
+msgid "Windowed Fullscreen"
+msgstr ""
+
+#. Key:	BackWarning
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/PopupString.PopupString
+#: /Game/00_Prog/UI/StringTable/PopupString.PopupString
+msgctxt "PopupString,BackWarning"
+msgid "Warning: Unsaved changes detected. Please save your progress before exiting the menu."
+msgstr ""
+
+#. Key:	Choose
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/PopupString.PopupString
+#: /Game/00_Prog/UI/StringTable/PopupString.PopupString
+msgctxt "PopupString,Choose"
+msgid "Choose an option."
+msgstr ""
+
+#. Key:	Experimental
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/PopupString.PopupString
+#: /Game/00_Prog/UI/StringTable/PopupString.PopupString
+msgctxt "PopupString,Experimental"
+msgid "Please note that this feature is experimental. Some bugs may occur, affecting the gaming experience."
+msgstr ""
+
+#. Key:	OptionCategoryWarning
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/PopupString.PopupString
+#: /Game/00_Prog/UI/StringTable/PopupString.PopupString
+msgctxt "PopupString,OptionCategoryWarning"
+msgid "Warning: Unsaved changes detected. Please save your progress before switching menus."
+msgstr ""
+
+#. Key:	mb01_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb01_desc"
+msgid "<texte>The Iron Breaker is an automatic gun that does reliable damage.</> \r\n<texte>Whenever you aim with it, it can place delayed explosives that deal a lot of damage!</> \r\n\r\n<Titre3>Shoot : [Left Mouse Button]: </>\r\n<Titre3>Aim : [Right Mouse Button]: </>"
+msgstr ""
+
+#. Key:	mb01_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb01_name"
+msgid "Iron Breaker"
+msgstr ""
+
+#. Key:	mb02_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb02_desc"
+msgid "<texte>The FIRE.flies is an automatic smartgun that fires projectiles that home in onto locked-on enemies. Aim at a target to lock it in, and keep locked-on targets in your targeting zone.</> \r\n<texte>Be careful not to let your gun overheat! The more locked-on enemies you aim at, the faster your gun overheats.</> \r\n\r\n<Titre3>Shoot : [Left Mouse Button]: </>\r\n<Titre3>Aim : [Right Mouse Button]: </>"
+msgstr ""
+
+#. Key:	mb02_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb02_name"
+msgid "FIRE.flies"
+msgstr ""
+
+#. Key:	mb03_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb03_desc"
+msgid "<texte>Prototype de fusil à pompe semi-automatique conçu pour induire une transe guerrière chez son utilisateur grâce à son rythme de tir distinctif, le Cadence Shotgun altère la perception du réel par la performance.</> \r\n\r\n<Titre3>Tir Rythmique [Clic Gauche]: </>\r\n<texte>Quand l'action est utilisée au bon moment, tire une volée de projectiles infligeant des dégâts à la cible et donne un stack de Hâte.</>\r\n<texte>Chaque stack de Hâte réduit les temps de récupération de toutes les capacités de 10%.</>"
+msgstr ""
+
+#. Key:	mb03_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb03_name"
+msgid "Cadence Shotgun"
+msgstr ""
+
+#. Key:	mb04_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb04_desc"
+msgid "<texte>Launch a flashbang that can stun and stagger enemies.</>\r\n<texte>Charge it up to send it further.</> \r\n\r\n<Titre3>Launch : [Middle Mouse Button]</>"
+msgstr ""
+
+#. Key:	mb04_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb04_name"
+msgid "Snapflash"
+msgstr ""
+
+#. Key:	mb05_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb05_desc"
+msgid "<texte>Launch an electric spear that sticks to surfaces and discharges electricity around it.</>\r\n\r\n<Titre3>Use : [Middle Mouse Button]</>"
+msgstr ""
+
+#. Key:	mb05_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb05_name"
+msgid "Battery Bolt"
+msgstr ""
+
+#. Key:	mb06_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb06_desc"
+msgid "<texte>e</>"
+msgstr ""
+
+#. Key:	mb06_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb06_name"
+msgid "Cableur"
+msgstr ""
+
+#. Key:	mb07_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb07_desc"
+msgid "<texte>Allows the user to quickly dash forward.</>\r\n\r\n<Titre3>Use : [Shift]</>"
+msgstr ""
+
+#. Key:	mb07_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb07_name"
+msgid "Hauler Legs"
+msgstr ""
+
+#. Key:	mb08_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb08_desc"
+msgid "<texte>Allows the user to sprint for a bit.</>\r\n\r\n<Titre3>Use : [Shift]</>"
+msgstr ""
+
+#. Key:	mb08_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb08_name"
+msgid "Rollerdrives"
+msgstr ""
+
+#. Key:	mb09_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb09_desc"
+msgid "<texte>Le Cryo Ghosting permet à l’utilisateur de diminuer sa température corporelle au point de rendre l’activité électromagnétique de ses atomes quasi-inertes.</>"
+msgstr ""
+
+#. Key:	mb09_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb09_name"
+msgid "CryoGhosting"
+msgstr ""
+
+#. Key:	mb10_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb10_desc"
+msgid "<texte>Launch yourself forward to hit an enemy and quickly send yourself flying back to safety.</>\r\n\r\n<Titre3>Use : [A]</>"
+msgstr ""
+
+#. Key:	mb10_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb10_name"
+msgid "Aerial Kick"
+msgstr ""
+
+#. Key:	mb11_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb11_desc"
+msgid "<texte>Throw a kick in front of you that launches away your enemies.</>\r\n\r\n<Titre3>Use : [A]</>"
+msgstr ""
+
+#. Key:	mb11_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb11_name"
+msgid "World Champion's Kick"
+msgstr ""
+
+#. Key:	mb12_desc
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb12_desc"
+msgid "<texte>Hit the ground with a powerful kick that can burst a rock out of the ground and send enemies flying.</>\r\n\r\n<Titre3>Use : [A]</>"
+msgstr ""
+
+#. Key:	mb12_name
+#. SourceLocation:	/Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+#: /Game/00_Prog/UI/StringTable/Table_MemberDescription.Table_MemberDescription
+msgctxt "MemberDescription,mb12_name"
+msgid "Seismic Kick"
+msgstr ""
+

@@ -1,0 +1,3 @@
+
+#include "WeakPointComponent.h"
+
